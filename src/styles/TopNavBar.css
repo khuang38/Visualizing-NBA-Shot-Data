@@ -1,0 +1,27 @@
+.App-logo {
+ padding-left: 40px;
+ height: 35px;
+ float: left;
+ margin-right:80em;
+}
+
+.App-header {
+ background-color: #1D428A;
+ height: 55px;
+ color: white;
+ display: flex;
+ align-items: center;
+}
+
+.App-title {
+ font-size: 1.5em;
+}
+
+ .website {
+padding-right: 40px;
+font-size: 1.5em;
+float:right;
+color: white;
+position:fixed;
+right:0;
+}
