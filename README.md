@@ -1,7 +1,8 @@
+PROJECT DEMO [DEMO](http://my-nba-visualizer.s3-website-us-west-1.amazonaws.com/).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-PROJECT DEMO [DEMO](http://my-nba-visualizer.s3-website-us-west-1.amazonaws.com/).
 
 ## Available Scripts
 
